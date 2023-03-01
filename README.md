@@ -1,48 +1,110 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+📗 Table of Contents
+📗 Table of Contents
+📖 [Ruby Capstone]
+🛠 Built With
+Tech Stack
+Key Features
+💻 Getting Started
+Prerequisites
+Setup
+Install
+Usage
+Run tests
+👥 Authors
+🔭 Future Features
+🤝 Contributing
+⭐️ Show your support
+🙏 Acknowledgments
+❓ FAQ (OPTIONAL)
+📝 License
+📖 [Blog App]
+[Blog App] Blog App is a fully functional Ruby on Rails application that will show the list of posts and empower users to interact by adding comments and liking posts.
 
-# Rails Blog App
+🛠 Built With
+Ruby on Rails.
+PostgreSQL.
+HTML
+ERB
+Tech Stack
+The app built using Ruby.
+The schema file built using SQL.
+Key Features
+Blog App is a fully functional Ruby on Rails application that will show the list of posts and empower users to interact by adding comments and liking posts.
 
-> The Blog app is Roby on rails website that will show the list of posts and empower readers to interact with them by adding comments and liking posts.
+[View Blog posts]
+[Add comments]
+[View number of posts by user]
+(back to top)
 
+(back to top)
 
-## Built With
-- Languages: Ruby
-- Models/Frameworks: Ruby on Rails
+💻 Getting Started
+To get a local copy up and running, follow these steps.
 
-## Getting started
-To get a local copy of this exercice, Please follow these simple example steps.
+Prerequisites
+In order to run this project you need:
 
-#### 1. Clone this repository or download the Zip folder:"
+Ruby should be installed in your local machine
+You need a Terminal.
+You need a code editor eg: VsCode
+Setup
+Clone this repository to your desired folder:
 
-```bash command
-$ git clone https://github.com/chimwemwe007/blog-app.git
-```
-#### 2. Navigate to the location of the folder in your machine:
-```bash command
-you@your-Pc-name:~$ cd <folder>
-```
-#### 3. Press Enter to navigate to your local clone.
+cd my-folder git clone https://github.com/Ceemos96/blog-app
 
-#### 4. Go to your terminal and run the app with the following command:
-```bash command
-rails server
-```
-- Navigate to http://localhost:3000/
+Install
+Install this project with:
 
-## Author
+Example command:
 
-👤 **Chimwemwe Mkandawire**
+sh cd blog-app bundle install
 
-- GitHub: [@chimwemwe007](https://github.com/chimwemwe007)
-- LinkedIn: [chimweme-mkandawire](https://www.linkedin.com/in/chimwemwe-mkandawire)
+Usage
+To run the project, execute the following command:
 
+Example command:
 
-## 🤝 Contributing
+sh ruby main.rb
 
+Run tests
+To run tests, run the following command:
+
+Example command:
+
+sh rspec spec
+
+(back to top)
+
+👥 Author
+👤 Suleiman Olaade
+
+GitHub: @Ceemos96
+Twitter: @Ceemos_dev
+LinkedIn: suleiman-olaide
+(back to top)
+
+🔭 Future Features
+ [Searching Functionality for a specific blog post]
+ [Provide a simple way for the user to choose from a list of options]
+(back to top)
+
+🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the issues page.
 
-## Show your support
+(back to top)
 
-Give a ⭐️ if you like this project!
+⭐️ Show your support
+If you like this project...
+
+(back to top)
+
+🙏 Acknowledgments
+I would like to thank Microverse
+
+(back to top)
+
+❓ FAQ (OPTIONAL)
+📝 License
+This project is MIT licensed.
