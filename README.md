@@ -26,7 +26,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Blog App] <a name="about-project"></a>
+# 📖 [Blog Application] <a name="about-project"></a>
 
 **[Blog App]** Blog App is a fully functional Ruby on Rails application that will show the list of posts and empower users to interact by adding comments and liking posts.
 
@@ -75,7 +75,8 @@ Clone this repository to your desired folder:
 
 
   cd my-folder
-  git clone https://github.com/Ceemos96/blog-app
+  clone https://github.com/Chimwewme007/railsblogapplication
+  
 
 
 ### Install
@@ -115,11 +116,11 @@ sh
 
 ## 👥 Author <a name="authors"></a>
 
-👤  **Suleiman Olaade**
+👤  **Chimwemwe007**
 
-- GitHub: [@Ceemos96](https://github.com/Ceemos96)
-- Twitter: [@Ceemos_dev](https://twitter.com/Ceemos_dev)
-- LinkedIn: [suleiman-olaide](https://www.linkedin.com/in/suleiman-olaide)
+- GitHub: [@chimwemwe007](https://github.com/Chimwemwe007)
+- Twitter: [@chxmz](https://twitter.com/chxmz)
+- LinkedIn: [chimwemwe007](https://www.linkedin.com/in/chimwemwe-mkandawire)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -139,7 +140,7 @@ sh
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Ceemos96/blog-app/issues/).
+Feel free to check the [issues page](https://github.com/chimwemwe007/railsblpogapplicatioon/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,6 +168,6 @@ I would like to thank Microverse
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Ceemos96/blog-app/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/chimwemwe007/railsblogapplicationp/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
